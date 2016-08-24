@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	// ooo
 	/*
 	string hairRootFile="f:/hairRoot.hr";
 	string hairCacheFile="f:/hairCache.0010.hcc";
